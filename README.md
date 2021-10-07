@@ -1,3 +1,4 @@
 ### <center> Archaiomelesidonophrunicherata </center>
-<center>  https://p6.toutiaoimg.com/origin/pgc-image/7bdd48c028a54db092b52723f279c0d6  <center>
-
+<div style="align: center">
+<img src="https://pic.imgdb.cn/item/615f2dce2ab3f51d91c2ae8a.jpg" width="1000" height="1000">
+</div>
